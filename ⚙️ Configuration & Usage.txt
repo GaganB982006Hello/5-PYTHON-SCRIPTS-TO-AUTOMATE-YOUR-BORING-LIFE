@@ -1,0 +1,39 @@
+1. File Organizer
+Setup: Open file_organizer.py and update the source_dir path to your actual Downloads folder path.
+
+Run: python file_organizer.py
+
+2. Email Sorter
+Setup: Open email_sorter.py.
+
+Security: You must generate an App Password from your Google Account settings (if using Gmail). Do not use your main login password.
+
+Run: python email_sorter.py
+
+3. PDF Merger
+Setup: Place the PDFs you want to merge in the same folder as the script. Update the pdf_files list in the code with your filenames.
+
+Run: python pdf_merger.py
+
+4. Web Data Extractor
+Setup: Update the url variable with the website you want to scrape. Note: Ensure you comply with the website's robots.txt and Terms of Service.
+
+Run: python web_scraper.py
+
+5. Image Resizer
+Setup: Create a folder named photos and put your raw images there. Run the script, and it will save optimized versions in a new optimized folder.
+
+Run: python image_resizer.py
+
+🤝 Contributing
+Contributions are welcome! If you have a script that automates a boring task, feel free to fork this repo and submit a Pull Request.
+
+Fork the Project
+
+Create your Feature Branch (git checkout -b feature/AmazingScript)
+
+Commit your Changes (git commit -m 'Add some AmazingScript')
+
+Push to the Branch (git push origin feature/AmazingScript)
+
+Open a Pull Request
