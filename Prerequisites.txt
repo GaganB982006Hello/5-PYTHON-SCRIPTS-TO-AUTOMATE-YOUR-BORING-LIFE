@@ -1,0 +1,1 @@
+pip install pypdf pillow pandas beautifulsoup4 requests
